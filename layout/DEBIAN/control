@@ -1,0 +1,8 @@
+Package: org.thebigboss.locationremindersenabler7
+Name: LocationRemindersEnabler7
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: enable location reminders in reminders.app for unsupported iOS 7 devices.
+Author: PoomSmart
+Section: Tweaks
